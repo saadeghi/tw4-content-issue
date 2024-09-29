@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* css source */
+@source "./public/wanted.html"
+
+/* js config file with content array */
+/* @config "./tailwind.config.js" */
